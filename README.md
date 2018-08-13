@@ -11,4 +11,10 @@ pip install python
 pip install pyecharts
 ```
 
+同时，假如我们要制作词云图，比如把好友签名提取出来制作词云图，首先要安装jieba和wordcloud，同样用pip安装
+```python
+pip install jieba
+pip install wordcloud
+```
+
 注意：代码运行开始会弹出一个二维码，需要我们扫码登录微信网页版，才能进行微信好友数据分爬取。
