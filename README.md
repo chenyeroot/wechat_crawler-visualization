@@ -20,3 +20,13 @@ pip install wordcloud
 
 ## 注意
 代码运行开始会弹出一个二维码，需要我们扫码登录微信网页版，才能进行微信好友数据分爬取。
+
+## 效果展示
+爬取自己微信好友的信息并可视化
+![image](https://github.com/chenyeroot/wechat_crawler-visualization/blob/master/好友城市可视化1.jpg)
+![image](https://github.com/chenyeroot/wechat_crawler-visualization/blob/master/好友性别可视化1.jpg)
+![image](https://github.com/chenyeroot/wechat_crawler-visualization/blob/master/好友性别可视化2.jpg)
+炫酷的创意词云图
+![image](https://github.com/chenyeroot/wechat_crawler-visualization/blob/master/cyt/0104.png)
+![image](https://github.com/chenyeroot/wechat_crawler-visualization/blob/master/cyt/0102.png)
+
